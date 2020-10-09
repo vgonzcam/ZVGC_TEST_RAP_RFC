@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_RFC_CUSTOM_ENTITY_HELPER</CLSNAME>
+    <LANGU>E</LANGU>
+    <DESCRIPT>Helper class.</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_RFC_CUSTOM_ENTITY_HELPER</CLSNAME>
+     <CMPNAME>CLASS_DOCU</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Helper class.</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_RFC_CUSTOM_ENTITY_HELPER</CLSNAME>
+     <CMPNAME>GET_DDL</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Full process</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_RFC_CUSTOM_ENTITY_HELPER</CLSNAME>
+     <CMPNAME>GET_INFO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get FM params</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_RFC_CUSTOM_ENTITY_HELPER</CLSNAME>
+     <CMPNAME>GET_STRUCT_INFO</CMPNAME>
+     <LANGU>E</LANGU>
+     <DESCRIPT>Get DDL from a stricture reference</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
